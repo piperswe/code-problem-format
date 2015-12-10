@@ -1,4 +1,4 @@
-# Code Problem Format Standard
+# Code Problem Format Standard [![GitHub version](https://badge.fury.io/gh/zebMcCorkle%2Fcode-problem-format.svg)](https://badge.fury.io/gh/zebMcCorkle%2Fcode-problem-format)
 
 The two main parts of this spec:
 
