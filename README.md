@@ -1,4 +1,4 @@
-# Code Problem Format Standard [![GitHub version](https://badge.fury.io/gh/zebMcCorkle%2Fcode-problem-format.svg)](https://badge.fury.io/gh/zebMcCorkle%2Fcode-problem-format)
+# Code Problem Format Standard ![Version Badge](https://img.shields.io/github/release/zebMcCorkle/code-problem-format.svg?style=flat-square)
 
 The two main parts of this spec:
 
